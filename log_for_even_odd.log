@@ -1,0 +1,7 @@
+root:INFO:User is entering the list here
+root:DEBUG:Number list is returned
+root:DEBUG:Got the list of numbers from user
+root:DEBUG:Finding the even numbers upto the given list
+root:DEBUG:Finding the odd numbers from the given list
+root:DEBUG:Found even and odd numbers from the users list
+root:WARNING:Mission Complete

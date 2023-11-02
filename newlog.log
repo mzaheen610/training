@@ -1,0 +1,4 @@
+root:DEBUG:This is not a sample message
+root:WARNING:OH damn
+root:ERROR:Systems are failing
+root:CRITICAL:MAYDAY..... MAYDAY
